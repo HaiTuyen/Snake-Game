@@ -1,13 +1,12 @@
-# snake_game
-A simple snake game project
+# Project: SNAKE GAME
+A simple snake game 
 
 
 # Contributors
-1. Đỗ Thái Duy
-2. Huỳnh Quốc Duy
-3. Trần Thị Khánh Duyên
-4. Ngô Nguyễn Nhật Hạ
-5. Phan Ngọc Hoan
+1. Huỳnh Thiện Hữu (nhóm trưởng)
+2. Nguyễn Hải Tuyên
+3. Ngô Hoàng Khang
+4. Nguyễn Thái Đan Sâm
 
 # Run
 1. Open .sln in Visual Studio
